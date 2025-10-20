@@ -1,4 +1,5 @@
 Just a bot for Team Fortress 2, and no. This is not the annoying ahh sniper bots spamming "Join My Little Ponie fort discord UwU" in chat and killing anyone insight instantly. It walks around, and shoots from time to time saying anything.
+This actually works on any Source game, but was originaly made for Team Fortress 2.
 
 To set up:
 1, open TF2 and enter a match.
